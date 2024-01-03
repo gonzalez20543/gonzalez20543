@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Arturo!
 
 ➡ At the moment I'm working on a side project 👨‍🏭. 
-➡ Learning something new everyday ✏
+➡ Learning something new everyday ✏ 
 
 
 <!--
